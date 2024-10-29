@@ -30,16 +30,16 @@ Excited to keep learning and building!
 
 ### ⚒️ Repos
 
-[![DevKin](https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim0Ineizeh&repo=devkin&theme=gruvbox)](https://github.com/Ibrahim0Ineizeh/DevKin)
+[![DevKin](https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim0Ineizeh&repo=devkin&theme=noctis_minimus)](https://github.com/Ibrahim0Ineizeh/DevKin)
 #
 
 ### 📊 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ibrahim0Ineizeh&show_icons=true&theme=gruvbox&card_width=320&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ibrahim0Ineizeh&show_icons=true&theme=noctis_minimus&card_width=320&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim0Ineizeh&layout=compact&theme=gruvbox&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim0Ineizeh&layout=compact&theme=noctis_minimus&langs_count=8&card_width=320" />
 </a>
 
 <!--

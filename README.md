@@ -2,11 +2,11 @@
 
 **`Software Engineer (DevOps/Full-Stack Development)`**
 
-👋 Hi! I'm a software engineer passionate about creating applications that make a difference. My journey has been all about learning and building, from full-stack development to diving into DevOps to ship reliable, scalable software. Recently, I've been working as a DevOps engineer, using frameworks like Spring Boot and React in projects like DevKin—you can learn more about it <a href="">here</a>. I’m also exploring Laravel and sharpening my skills in Docker, AWS, and GitHub, alongside a focus on databases and clean code principles.
+👋 Hi! I'm a software engineer passionate about creating applications that make a difference. My journey has been all about learning and building, from full-stack development to diving into DevOps to ship reliable, scalable software. Recently, I've been working as a DevOps engineer, using frameworks like Spring Boot and React in projects like DevKin—you can learn more about it <a href="https://github.com/Ibrahim0Ineizeh/DevKin">here</a>. I’m also exploring Laravel and sharpening my skills in Docker, AWS, and GitHub, alongside a focus on databases and clean code principles.
 
 Excited to keep learning and building!
 
----
+#
 
 ### 🧰 Languages and Tools
 
@@ -24,13 +24,23 @@ Excited to keep learning and building!
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-
 <br />
+
+#
+
+### ⚒️ Repos
+
+[![DevKin](https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim0Ineizeh&repo=devkin&theme=calm_pink)](https://github.com/Ibrahim0Ineizeh/DevKin)
+#
 
 ### 📊 Stats
 
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim0Ineizeh&show_icons=true&theme=gruvbox)
-#
+<a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right:10px;">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ibrahim0Ineizeh&show_icons=true&theme=calm_pink" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim0Ineizeh&layout=compact&theme=calm_pink&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **Ibrahim0Ineizeh/Ibrahim0Ineizeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -31,6 +31,7 @@ Excited to keep learning and building!
 ### ⚒️ Repos
 
 [![DevKin](https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim0Ineizeh&repo=DevKin&theme=noctis_minimus)](https://github.com/Ibrahim0Ineizeh/DevKin)
+[![Translizer](https://github-readme-stats.vercel.app/api/pin/?username=mgti3&repo=Translizer&theme=noctis_minimus)](https://github.com/mgti3/Translizer)
 #
 
 ### 📊 Stats

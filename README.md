@@ -32,6 +32,7 @@ Excited to keep learning and building!
 
 [![DevKin](https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim0Ineizeh&repo=DevKin&theme=noctis_minimus)](https://github.com/Ibrahim0Ineizeh/DevKin)
 [![Translizer](https://github-readme-stats.vercel.app/api/pin/?username=mgti3&repo=Translizer&theme=noctis_minimus)](https://github.com/mgti3/Translizer)
+[![Neutron-Center](https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim0Ineizeh&repo=Neutron-Center&theme=noctis_minimus)](https://github.com/Ibrahim0Ineizeh/Neutron-Center)
 #
 
 ### 📊 Stats

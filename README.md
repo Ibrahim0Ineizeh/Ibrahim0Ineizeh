@@ -1,8 +1,8 @@
 ## 🦾 Ibrahim Ineizeh 
 
-**`Software Engineer (DevOps/Full-Stack Development)`**
+**`Software Engineer (Full-Stack Development/ Graphics Engineer)`**
 
-👋 Hi! I'm a software engineer passionate about creating applications that make a difference. My journey has been all about learning and building, from full-stack development to diving into DevOps to ship reliable, scalable software. Recently, I've been working as a DevOps engineer, using frameworks like Spring Boot and React in projects like DevKin—you can learn more about it <a href="https://github.com/Ibrahim0Ineizeh/DevKin">here</a>. I’m also exploring Laravel and sharpening my skills in Docker, AWS, and GitHub, alongside a focus on databases and clean code principles.
+👋 Hi! I'm a software engineer passionate about creating applications that make a difference. My journey has been all about learning and building, from full-stack development to diving into DevOps to ship reliable, scalable software. Recently, I've been working on learning three.js and make websites with 3D models and animations. I’m also sharping my skills in Java and Spring Boot, alongside a focus on databases and clean code principles.
 
 Excited to keep learning and building!
 

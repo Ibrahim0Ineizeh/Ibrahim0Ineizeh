@@ -1,8 +1,8 @@
 # Hi, I'm Ibrahim 👋
 
-I'm a software engineer with some knowledge in AI, I mainly use **Python, Rust** and popular libraries to make my projects.
+I'm a software engineer with some knowledge in AI, I mainly use **Python, Rust, JS** to make my projects.
 
-I build projects that I think would be enjoyable and somewhat useful for someone.
+I build projects that I think would be enjoyable and maybe useful for someone.
 
 ### Current Interests:
 
@@ -14,4 +14,4 @@ I build projects that I think would be enjoyable and somewhat useful for someone
 
 ### Technologies
 
-`Python` `Rust` `PyTorch` `scikit-learn` `NumPy` `Pandas` `Git` `Jax`
+`Python` `Rust` `PyTorch` `scikit-learn` `NumPy` `Pandas` `Git` `Jax` `marimo`

@@ -1,6 +1,6 @@
 # Hi, I'm Ibrahim 👋
 
-I'm a software engineer with some knowledge in AI, I mainly use **Python, Rust, JS** to make my projects.
+I'm a software engineer with knowledge in AI, I mainly use **Python, Rust, JS** to make my projects.
 
 I build projects that I think would be enjoyable and maybe useful for someone.
 
